@@ -7,7 +7,9 @@ With custom terrain generation and custom configuration the experience has been 
 
 ## Installation and Information
 
-Playing this modpack with 8GB+ (8192MB+) RAM allocated is recommended, 6GB minimum.
+Download the zip file and extract it in your Minecraft folder.
+
+NOTE: Playing this modpack with 8GB+ (8192MB+) RAM allocated is recommended, 6GB minimum.
 
 ---
 
