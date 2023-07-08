@@ -138,7 +138,6 @@ total of 90 mods (not including libraries)
     <li>Corpse</li>
     <li>Xaero's Minimap</li>
     <li>Xaero's World Map</li>
-    <li>In Control!</li>
 </ul>
 </details>
 
