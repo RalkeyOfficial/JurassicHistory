@@ -1,7 +1,7 @@
 version:1343
 invertYMouse:false
 mouseSensitivity:0.5
-fov:0.375
+fov:0.5
 gamma:1.0
 saturation:0.0
 renderDistance:12
@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:true
-resourcePacks:[]
+resourcePacks:["Black Icons§r","Modernity-format3-v3.9.0.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -25,7 +25,7 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
-fullscreen:false
+fullscreen:true
 enableVsync:true
 useVbo:true
 hideServerAddress:false
@@ -34,7 +34,7 @@ pauseOnLostFocus:true
 touchscreen:false
 overrideWidth:0
 overrideHeight:0
-heldItemTooltips:true
+heldItemTooltips:false
 chatHeightFocused:1.0
 chatHeightUnfocused:0.44366196
 chatScale:1.0
@@ -94,15 +94,15 @@ key_key.opendoor:46
 key_key.reload:19
 key_key.unload:22
 key_key.inspect:25
-key_key.attachment:50
+key_key.attachment:26
 key_key.laser:38
 key_key.nightVision:49
-key_key.add:23
-key_key.subtract:24
+key_key.add:201
+key_key.subtract:209
 key_key.fire_mode:48
-key_key.proning:44
+key_key.proning:0
 key_debug.freecamLock:199
-key_debug.freecamRotate:29
+key_debug.freecamRotate:0
 key_key.custom_inventory:45
 key_vehicle.throttle:17
 key_vehicle.brake:31
@@ -113,7 +113,7 @@ key_vehicle.clutch:46
 key_vehicle.turnoff:13
 key_oreexcavation.key.excavate:41
 key_oreexcavation.key.shape:47
-key_keys.quantumstorage.openbag:79
+key_keys.quantumstorage.openbag:0
 key_Toggle Raw Input:0
 key_Rescan Key:0
 key_key.microraptor_dismount:46
@@ -135,7 +135,7 @@ key_key.vehicle_6.switch:8:CONTROL
 key_key.vehicle_7.switch:9:CONTROL
 key_key.vehicle_8.switch:10:CONTROL
 key_key.cofh.multimode:47
-key_key.jei.toggleOverlay:24:CONTROL
+key_key.jei.toggleOverlay:0
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
 key_key.jei.toggleEditMode:0
@@ -144,7 +144,7 @@ key_key.jei.showUses:22
 key_key.jei.recipeBack:14
 key_key.jei.previousPage:201
 key_key.jei.nextPage:209
-key_key.jei.bookmark:30
+key_key.jei.bookmark:0
 key_key.jei.toggleBookmarkOverlay:0
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
@@ -153,12 +153,12 @@ key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
 key_key.toggle_focus.desc:15
 key_key.reveal:34
-key_bbw.key.mode:50
-key_bbw.key.fluidmode:33
-key_Options Gui:23
+key_bbw.key.mode:0
+key_bbw.key.fluidmode:0
+key_Options Gui:0
 key_chunkloaders.keys.open_screen:46
-key_key.refinedstorage.focusSearchBar:15
-key_key.refinedstorage.clearGridCraftingMatrix:45:CONTROL
+key_key.refinedstorage.focusSearchBar:0
+key_key.refinedstorage.clearGridCraftingMatrix:0
 key_key.refinedstorage.openWirelessGrid:0
 key_key.refinedstorage.openWirelessFluidGrid:0
 key_key.refinedstorage.openPortableGrid:0
@@ -171,16 +171,16 @@ key_key.otghud.desc:24
 key_pi.key.open_pi:23
 key_pi.key.et_gui:23
 key_pi.key.et_world:23:CONTROL
-key_key.quantumflux.magnet:50
+key_key.quantumflux.magnet:0
 key_key.refinedstorageaddons.openWirelessCraftingGrid:34:CONTROL
 key_key.push_to_talk:58
 key_key.whisper:0
-key_key.mute_microphone:50
-key_key.disable_voice_chat:49
-key_key.hide_icons:35
+key_key.mute_microphone:49
+key_key.disable_voice_chat:0
+key_key.hide_icons:0
 key_key.voice_chat:47
 key_key.voice_chat_settings:0
-key_key.voice_chat_group:34
+key_key.voice_chat_group:0
 key_key.voice_chat_toggle_recording:0
 key_key.voice_chat_adjust_volumes:0
 key_gui.xaero_switch_waypoint_set:0
@@ -190,8 +190,8 @@ key_gui.xaero_toggle_grid:0
 key_gui.xaero_toggle_waypoints:0
 key_gui.xaero_toggle_map_waypoints:0
 key_gui.xaero_toggle_map:0
-key_gui.xaero_enlarge_map:44
-key_gui.xaero_waypoints_key:22
+key_gui.xaero_enlarge_map:0
+key_gui.xaero_waypoints_key:48:ALT
 key_gui.xaero_zoom_in:0
 key_gui.xaero_zoom_out:0
 key_gui.xaero_new_waypoint:48
