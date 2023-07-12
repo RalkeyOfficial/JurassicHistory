@@ -1,3 +1,8 @@
+*Still in beta. Suggestions are welcome*
+
+*This modpack is designed with high end PC's in mind (RTX-3070, i7-9th gen, 24 gb RAM)*
+*so low and mid end pc's should try out if they can run it*
+
 # Jurassic History
 
 Jurassic History is a modpack dedicated to bringing Guns, Machinery / technology and Dinosaurs together in a way that makes sense and is a fun gameplay experience.
@@ -138,6 +143,7 @@ total of 90 mods (not including libraries)
     <li>Corpse</li>
     <li>Xaero's Minimap</li>
     <li>Xaero's World Map</li>
+    <li>Bad Mobs</li>
 </ul>
 </details>
 
@@ -173,6 +179,7 @@ total of 90 mods (not including libraries)
     <li>AI Improvements</li>
     <li>BetterFps</li>
     <li>CensoredASM</li>
+    <li>Multithreaded Noise</li>
 </ul>
 </details>
 
