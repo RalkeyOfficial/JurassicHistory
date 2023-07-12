@@ -1,7 +1,7 @@
 *Still in beta. Suggestions are welcome*
 
-*This modpack is designed with high end PC's in mind (RTX-3070, i7-9th gen, 24 gb RAM)*
-*so low and mid end pc's should try out if they can run it*
+*This modpack is designed with high end PC's in mind (RTX-3070, i7-9th gen, 24 gb RAM).*
+*So low end PC's will likely not be able to run it*
 
 # Jurassic History
 
